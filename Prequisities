@@ -6,14 +6,7 @@ It is based on pull and collects metrics from targets by scraping metrics HTTP e
 
 Prometheus Architecture
 
-
-Alt text
-
-
-
-
-What is Grafana ?
-
+https://github.com/iam-veeramalla/prometheus-Grafana-Zero-to-Hero#:~:text=Prometheus%20Architecture,What%20is%20Grafana%20%3F
 
 What is Grafana?
 Grafana is an open source visualization and analytics software. 
