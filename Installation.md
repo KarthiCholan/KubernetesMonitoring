@@ -50,5 +50,6 @@ Access Grafana UI in the browser
 
 Get the URL from the above screenshot and put in the browser
 
+![image](https://github.com/KarthiCholan/KubernetesMonitoring/assets/108706606/c05a919b-62ac-4697-b710-60ad44c7d63b)
 
 
