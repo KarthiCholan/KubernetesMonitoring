@@ -4,7 +4,15 @@ Provides out-of-the-box monitoring capabilities for the Kubernetes container orc
 Collects and stores metrics as time-series data, recording information with a timestamp 
 It is based on pull and collects metrics from targets by scraping metrics HTTP endpoints.
 
+Prometheus Architecture
 
+
+Alt text
+
+
+
+
+What is Grafana ?
 
 
 What is Grafana?
