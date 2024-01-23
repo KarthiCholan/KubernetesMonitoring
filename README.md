@@ -29,3 +29,11 @@ Visibility: Monitoring provides real-time insights into the health and performan
 Capacity Planning: By collecting and analyzing data over time, you can make informed decisions about capacity planning, such as when to add or remove nodes, allocate more resources, or scale your applications.
 
 
+
+
+
+
+#  Prequisities
+
+AWS EKS Cluster
+HELM Should be installed
