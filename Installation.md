@@ -31,12 +31,14 @@ kubectl get svc -n prometheus
 
 # To make prometheus and grafana available outside the cluster, use LoadBalancer or NodePort instead of ClusterIP.
 
-Edit Prometheus Service
+# Edit Prometheus Service
+
 kubectl edit svc stable-kube-prometheus-sta-prometheus -n prometheus
 
 
 
-Edit Grafana Service
+# Edit Grafana Service
+
 kubectl edit svc stable-grafana -n prometheus
 
 
@@ -47,7 +49,7 @@ kubectl get svc -n prometheus
 
 
 
-Access Grafana UI in the browser
+# Access Grafana UI in the browser
 
 Get the URL from the above screenshot and put in the browser
 
@@ -58,7 +60,7 @@ Get the URL from the above screenshot and put in the browser
 
 
 
-Import the dashboard
+# Import the dashboard
 
 
 
@@ -69,14 +71,14 @@ Import the dashboard
 
 
 
-Container Monitoring Dashobard --12740 
+# Container Monitoring Dashobard --12740 
 
 
 ![image](https://github.com/KarthiCholan/KubernetesMonitoring/assets/108706606/ac2c72cf-0e79-4f5e-9710-6c8671d25623)
 
 
 
-POD Monitoring Dashboard --6417
+# POD Monitoring Dashboard --6417
 
 
 ![image](https://github.com/KarthiCholan/KubernetesMonitoring/assets/108706606/ce46b32d-c99b-4ab9-8dd6-6797ecb40f29)
