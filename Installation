@@ -1,4 +1,2 @@
 
-# AWS EKS Cluster need to be up and running 
-
-# HELM need to be installed
+KubernetesMonitoring using Prometheus and Grafana
