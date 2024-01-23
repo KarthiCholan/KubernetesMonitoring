@@ -42,6 +42,10 @@ kubectl edit svc stable-grafana -n prometheus
 
 kubectl get svc -n prometheus
 
+
+![Prometheus](https://github.com/KarthiCholan/KubernetesMonitoring/assets/108706606/038af60d-fca4-422e-8dfb-cfd0c4cf8111)
+
+
 Access Grafana UI in the browser
 
 Get the URL from the above screenshot and put in the browser
