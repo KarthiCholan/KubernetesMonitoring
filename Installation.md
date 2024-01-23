@@ -46,10 +46,39 @@ kubectl get svc -n prometheus
 ![Prometheus](https://github.com/KarthiCholan/KubernetesMonitoring/assets/108706606/038af60d-fca4-422e-8dfb-cfd0c4cf8111)
 
 
+
 Access Grafana UI in the browser
 
 Get the URL from the above screenshot and put in the browser
 
+
 ![image](https://github.com/KarthiCholan/KubernetesMonitoring/assets/108706606/c05a919b-62ac-4697-b710-60ad44c7d63b)
+
+
+
+
+
+Import the dashboard
+
+
+
+
+![image](https://github.com/KarthiCholan/KubernetesMonitoring/assets/108706606/02c71114-393d-4967-aa30-75bcc2417e6a)
+
+
+
+
+
+Container Monitoring Dashobard --12740 
+
+
+![image](https://github.com/KarthiCholan/KubernetesMonitoring/assets/108706606/ac2c72cf-0e79-4f5e-9710-6c8671d25623)
+
+
+
+POD Monitoring Dashboard --6417
+
+
+![image](https://github.com/KarthiCholan/KubernetesMonitoring/assets/108706606/ce46b32d-c99b-4ab9-8dd6-6797ecb40f29)
 
 
